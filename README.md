@@ -29,7 +29,7 @@ The dataset encompasses comprehensive details of Global Superstore transactions,
 
 ## Power BI Dashboard 
 The Power BI dashboard offers:  
-- ### Interactive Visuals ### : Engage with dynamic charts showing sales by ship mode, category, market, and country.  
+- ### Interactive Visuals: Engage with dynamic charts showing sales by ship mode, category, market, and country.  
 - ### Temporal Analysis: Visualizations of monthly sales and profit with Year-over-Year comparisons to track performance over time.  
 - ### Segment Insights: Detailed breakdowns of total sales and profit by customer segment for targeted strategy development.  
 - ### Filtering Capabilities: Easily filter by Year, City, Quarter, and more to tailor insights to specific business needs.
