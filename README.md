@@ -43,5 +43,6 @@ The Power BI dashboard offers:
 - ### Without Power BI Desktop:  
   1. Click the provided web link to access the interactive dashboard online.  
   2. Navigate the dashboard to view key insights and trends at a glance.
+  https://app.powerbi.com/view?r=eyJrIjoiZjdlZTM2NzEtZWQ4ZC00MjY2LTg4OGUtNTViM2Y0N2FhODc2IiwidCI6ImRlMTM3ZmFmLTVmMDQtNDI1OC04ZjRmLTdhNDg0NDNiM2JiZCIsImMiOjZ9
 
 This project transforms Global Superstore's raw sales data into actionable insights, equipping stakeholders with the intelligence needed to optimize sales strategies, improve market penetration, and drive overall business growth.
